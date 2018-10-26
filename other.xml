@@ -1,0 +1,26 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="0">
+      <toolchain name="Cygwin" toolSetKind="CYGWIN" toolSetPath="C:\cygwin64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\cygwin64\bin\gdb.exe" />
+    </toolchains>
+  </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://tc-svn.tencent.com/td/td_ecadmin_rep/web_proj/trunk/t.weixin.oa.com" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://tc-svn.tencent.com/td/td_ecadmin_rep/web_proj/trunk/t.weixin.oa.com" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>

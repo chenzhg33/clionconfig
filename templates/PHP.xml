@@ -1,0 +1,6 @@
+<templateSet group="PHP">
+  <template name="forloop" value="for ($i$ = 0; $i$ &lt; $N$; ++$i$) {&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="N" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
