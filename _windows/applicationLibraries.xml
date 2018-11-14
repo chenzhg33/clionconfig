@@ -1,5 +1,11 @@
 <application>
   <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7.11 (C:\Python27\python.exe) interpreter library">
       <CLASSES>
         <root url="file://C:/Python27/DLLs" />
@@ -14,7 +20,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES>
         <root url="file://C:/Python27/DLLs" />
         <root url="file://C:/Python27/Lib" />
