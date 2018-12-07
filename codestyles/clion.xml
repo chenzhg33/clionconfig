@@ -2,8 +2,6 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
-    <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
-    <option name="INDENT_CLASS_MEMBERS" value="2" />
     <option name="INDENT_VISIBILITY_KEYWORDS" value="1" />
     <option name="INDENT_INSIDE_CODE_BLOCK" value="2" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
@@ -46,14 +44,12 @@
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="BRACE_STYLE" value="4" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_ASSIGNMENT" value="false" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="false" />
-    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_AFTER_SEMICOLON" value="false" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="0" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="false" />
@@ -61,6 +57,7 @@
     <option name="ENUM_CONSTANTS_WRAP" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
