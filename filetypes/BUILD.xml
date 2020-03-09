@@ -13,7 +13,4 @@
     </options>
     <keywords keywords="from;if;import" ignore_case="false" />
   </highlighting>
-  <extensionMap>
-    <mapping pattern="BUILD" />
-  </extensionMap>
 </filetype>
