@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="BUILD_OF_BLADE" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="Python" />
     </extensionMap>
   </component>
